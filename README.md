@@ -31,7 +31,7 @@
 
 ## Sample output
 <p align="center">
-  <img src=https://imgur.com/a/5sMpAOT" width="200">
+  <img src=https://i.imgur.com/LZiTeGy.png" width="200">
   <img src="https://i.imgur.com/nqFsCwK.png" width="200">
   <img src="https://i.imgur.com/aRqHzEK.png")" width="200">
 </p>
