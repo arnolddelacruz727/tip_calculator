@@ -30,3 +30,8 @@
 - Uses a Material 3 green theme from `ColorScheme.fromSeed`
 
 ## Sample output
+<p align="center">
+  <img src=https://imgur.com/a/5sMpAOT" width="200">
+  <img src="https://imgur.com/a/OFYLxTc" width="200">
+  <img src="https://imgur.com/a/gvWX2GD" width="200">
+</p>
